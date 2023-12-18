@@ -17,7 +17,7 @@ namespace Fundamentos
             //Esto es una excepcion en la norma
             //tener una clase de estructura o final 
             //no se instancia, se utiliza.
-            //por ejemplo, la clase color
+            //por ejemplo, la clase colors
             this.BackColor = Color.Aquamarine;
 
         }
